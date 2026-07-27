@@ -26,7 +26,7 @@ A Python-based Hospital Management System built using <b>Python</b>, <b>Object-O
 
 Hospital Management System is a console-based application developed using Python. It helps manage hospital operations including patient records, doctor information, appointments, medicine inventory, billing, and report generation.
 
-This project demonstrates the implementation of Object-Oriented Programming concepts together with JSON-based data storage to build a practical management system.
+This project demonstrates the implementation of Object-Oriented Programming (OOP) concepts together with JSON-based data storage to build a practical hospital management system.
 
 ---
 
@@ -40,7 +40,7 @@ This project demonstrates the implementation of Object-Oriented Programming conc
 - 💊 Medicine Inventory Management
 - 💰 Patient Bill Generation
 - 📊 Hospital Reports
-- 🔐 Login System
+- 🔐 User Login System
 - 💾 JSON File Storage
 
 ---
@@ -76,7 +76,7 @@ Hospital-Management-System/
 git clone https://github.com/Tehmina124/Hospital-Management-System.git
 ```
 
-### 2️⃣ Open the project folder
+### 2️⃣ Navigate to the project folder
 
 ```bash
 cd Hospital-Management-System
@@ -92,7 +92,7 @@ python hospital.py
 
 # 🎯 Learning Outcomes
 
-Through this project I improved my understanding of:
+This project helped me strengthen my understanding of:
 
 - Object-Oriented Programming (OOP)
 - CRUD Operations
@@ -109,7 +109,7 @@ Through this project I improved my understanding of:
 - 🖥️ GUI using Tkinter
 - 🌐 Web Interface using Streamlit
 - 🗄️ MySQL Database Integration
-- 👥 Admin & Doctor Login Roles
+- 👥 Role-Based Access (Admin & Doctor)
 - 📱 Online Appointment Booking
 - 💊 Medicine Expiry Tracking
 - 📈 Dashboard & Analytics
@@ -130,19 +130,22 @@ If you like this project, consider giving it a ⭐.
 
 **AI/ML Engineer | Python Developer**
 
-🌐 Portfolio  
-https://tehmina-portfolio.vercel.app/
+🌐 **Portfolio:**  
+https://tehmina-portfolio-five.vercel.app/
 
-💼 LinkedIn  
+💼 **LinkedIn:**  
 https://www.linkedin.com/in/tehmina-anwar-77b8a8414/
 
-💻 GitHub  
+💻 **GitHub:**  
 https://github.com/Tehmina124
+
+📧 **Email:**  
+Tehminaanwar713@gmail.com
 
 ---
 
 <p align="center">
 
-### ⭐ Building intelligent AI solutions that create real-world impact.
+⭐ Building intelligent AI solutions that create real-world impact.
 
 </p>
